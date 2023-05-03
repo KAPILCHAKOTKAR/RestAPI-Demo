@@ -1,4 +1,4 @@
-package com.employee.EmployeeDetails;
+package com.employee.EmployeeDetails.controller;
 
 import com.employee.EmployeeDetails.entity.Employee;
 import com.employee.EmployeeDetails.service.EmployeeService;
